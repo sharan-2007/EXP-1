@@ -46,8 +46,10 @@ CIRCUIT DIAGRAM:
 a.   KVL:
      <img width="783" height="454" alt="Screenshot 2026-01-05 235653" src="https://github.com/user-attachments/assets/d2e0e0fd-0c01-45dd-a18a-0009d0d90d36" />
 
-     
-     <img width="850" height="494" alt="image" src="https://github.com/user-attachments/assets/29aac759-e24d-4194-ab9d-9127f7a7465a" />
+
+
+
+<img width="850" height="494" alt="image" src="https://github.com/user-attachments/assets/29aac759-e24d-4194-ab9d-9127f7a7465a" />
 
  
 
@@ -56,7 +58,7 @@ b.  KCL:
     <img width="851" height="566" alt="image" src="https://github.com/user-attachments/assets/a0e28aff-292d-40fc-b828-a51bbee77607" />
 
     
-    <img width="852" height="367" alt="image" src="https://github.com/user-attachments/assets/296b0c6e-d504-4557-87f8-3daa55564523" />
+<img width="852" height="367" alt="image" src="https://github.com/user-attachments/assets/296b0c6e-d504-4557-87f8-3daa55564523" />
 
 
  
@@ -66,14 +68,14 @@ Calculation:
 a.   KVL:
 
 
-     <img width="665" height="800" alt="image" src="https://github.com/user-attachments/assets/d206f3a4-77dc-489a-8420-fdff692882ed" />
+<img width="665" height="800" alt="image" src="https://github.com/user-attachments/assets/d206f3a4-77dc-489a-8420-fdff692882ed" />
 
 
 
 b.  KCL:
 
 
-    <img width="656" height="780" alt="image" src="https://github.com/user-attachments/assets/cae46033-1f8e-4e4a-b7db-d83a54c745d8" />
+<img width="656" height="780" alt="image" src="https://github.com/user-attachments/assets/cae46033-1f8e-4e4a-b7db-d83a54c745d8" />
 
 
 
@@ -83,14 +85,14 @@ Tabulation:
 a.   KVL:
 
 
-     <img width="667" height="421" alt="image" src="https://github.com/user-attachments/assets/138374a1-1b31-4bf2-98cd-f8401ae83998" />
+ <img width="667" height="421" alt="image" src="https://github.com/user-attachments/assets/138374a1-1b31-4bf2-98cd-f8401ae83998" />
 
 
 
 b.  KCL:
 
 
-    <img width="652" height="383" alt="image" src="https://github.com/user-attachments/assets/2a55941e-9dfd-4225-aa6c-d2ff1a730345" />
+   <img width="652" height="383" alt="image" src="https://github.com/user-attachments/assets/2a55941e-9dfd-4225-aa6c-d2ff1a730345" />
 
 
 
